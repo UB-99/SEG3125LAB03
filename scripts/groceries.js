@@ -22,7 +22,7 @@ var products = [
 		
 
 {
-		name: "Brocoli 1.99",
+		name: "Broccoli 1.99",
 		vegetarian: true,
 		glutenFree: true,
 		price: 1.99
